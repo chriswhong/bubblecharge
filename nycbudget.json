@@ -1,0 +1,902 @@
+[
+    {
+        "organization": "Administration For Children'S Services",
+        "id": "70",
+        "displayAmount": "$2.86B",
+        "rawAmount": "2860000000"
+    },
+    {
+        "organization": "Board of Correction",
+        "id": "46",
+        "displayAmount": "$1.06M",
+        "rawAmount": "1060000"
+    },
+    {
+        "organization": "Board of Elections",
+        "id": "17",
+        "displayAmount": "$119.33M",
+        "rawAmount": "119330000"
+    },
+    {
+        "organization": "Borough President - Bronx",
+        "id": "89",
+        "displayAmount": "$5.35M",
+        "rawAmount": "5350000"
+    },
+    {
+        "organization": "Borough President - Brooklyn",
+        "id": "56",
+        "displayAmount": "$5.79M",
+        "rawAmount": "5790000"
+    },
+    {
+        "organization": "Borough President - Manhattan",
+        "id": "101",
+        "displayAmount": "$4.62M",
+        "rawAmount": "4620000"
+    },
+    {
+        "organization": "Borough President - Queens",
+        "id": "107",
+        "displayAmount": "$4.72M",
+        "rawAmount": "4720000"
+    },
+    {
+        "organization": "Borough President - Staten Island",
+        "id": "48",
+        "displayAmount": "$3.97M",
+        "rawAmount": "3970000"
+    },
+    {
+        "organization": "Bronx Community Board #1",
+        "id": "57",
+        "displayAmount": "$261.72K",
+        "rawAmount": "261720"
+    },
+    {
+        "organization": "Bronx Community Board #10",
+        "id": "79",
+        "displayAmount": "$273.50K",
+        "rawAmount": "273500"
+    },
+    {
+        "organization": "Bronx Community Board #11",
+        "id": "44",
+        "displayAmount": "$255.17K",
+        "rawAmount": "255170"
+    },
+    {
+        "organization": "Bronx Community Board #12",
+        "id": "126",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Bronx Community Board #2",
+        "id": "72",
+        "displayAmount": "$248.99K",
+        "rawAmount": "248990"
+    },
+    {
+        "organization": "Bronx Community Board #3",
+        "id": "69",
+        "displayAmount": "$261.78K",
+        "rawAmount": "261780"
+    },
+    {
+        "organization": "Bronx Community Board #4",
+        "id": "24",
+        "displayAmount": "$247.20K",
+        "rawAmount": "247200"
+    },
+    {
+        "organization": "Bronx Community Board #5",
+        "id": "51",
+        "displayAmount": "$229.20K",
+        "rawAmount": "229200"
+    },
+    {
+        "organization": "Bronx Community Board #6",
+        "id": "60",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Bronx Community Board #7",
+        "id": "134",
+        "displayAmount": "$259.58K",
+        "rawAmount": "259580"
+    },
+    {
+        "organization": "Bronx Community Board #8",
+        "id": "64",
+        "displayAmount": "$261.48K",
+        "rawAmount": "261480"
+    },
+    {
+        "organization": "Bronx Community Board #9",
+        "id": "65",
+        "displayAmount": "$251.49K",
+        "rawAmount": "251490"
+    },
+    {
+        "organization": "Brooklyn Community Board #1",
+        "id": "68",
+        "displayAmount": "$272.05K",
+        "rawAmount": "272050"
+    },
+    {
+        "organization": "Brooklyn Community Board #10",
+        "id": "94",
+        "displayAmount": "$290.09K",
+        "rawAmount": "290090"
+    },
+    {
+        "organization": "Brooklyn Community Board #11",
+        "id": "83",
+        "displayAmount": "$247.45K",
+        "rawAmount": "247450"
+    },
+    {
+        "organization": "Brooklyn Community Board #12",
+        "id": "84",
+        "displayAmount": "$278.85K",
+        "rawAmount": "278850"
+    },
+    {
+        "organization": "Brooklyn Community Board #13",
+        "id": "78",
+        "displayAmount": "$262.70K",
+        "rawAmount": "262700"
+    },
+    {
+        "organization": "Brooklyn Community Board #14",
+        "id": "55",
+        "displayAmount": "$278.73K",
+        "rawAmount": "278730"
+    },
+    {
+        "organization": "Brooklyn Community Board #15",
+        "id": "61",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Brooklyn Community Board #16",
+        "id": "131",
+        "displayAmount": "$249.76K",
+        "rawAmount": "249760"
+    },
+    {
+        "organization": "Brooklyn Community Board #17",
+        "id": "141",
+        "displayAmount": "$291.21K",
+        "rawAmount": "291210"
+    },
+    {
+        "organization": "Brooklyn Community Board #18",
+        "id": "109",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Brooklyn Community Board #2",
+        "id": "103",
+        "displayAmount": "$253.64K",
+        "rawAmount": "253640"
+    },
+    {
+        "organization": "Brooklyn Community Board #3",
+        "id": "58",
+        "displayAmount": "$248.18K",
+        "rawAmount": "248180"
+    },
+    {
+        "organization": "Brooklyn Community Board #4",
+        "id": "144",
+        "displayAmount": "$256.00K",
+        "rawAmount": "256000"
+    },
+    {
+        "organization": "Brooklyn Community Board #5",
+        "id": "62",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Brooklyn Community Board #6",
+        "id": "38",
+        "displayAmount": "$221.15K",
+        "rawAmount": "221150"
+    },
+    {
+        "organization": "Brooklyn Community Board #7",
+        "id": "123",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Brooklyn Community Board #8",
+        "id": "52",
+        "displayAmount": "$269.26K",
+        "rawAmount": "269260"
+    },
+    {
+        "organization": "Brooklyn Community Board #9",
+        "id": "36",
+        "displayAmount": "$248.88K",
+        "rawAmount": "248880"
+    },
+    {
+        "organization": "Brooklyn Public Library",
+        "id": "147",
+        "displayAmount": "$66.10M",
+        "rawAmount": "66100000"
+    },
+    {
+        "organization": "Business Integrity Commission",
+        "id": "102",
+        "displayAmount": "$7.40M",
+        "rawAmount": "7400000"
+    },
+    {
+        "organization": "Campaign Finance Board",
+        "id": "1",
+        "displayAmount": "$55.08M",
+        "rawAmount": "55080000"
+    },
+    {
+        "organization": "City Clerk",
+        "id": "138",
+        "displayAmount": "$4.54M",
+        "rawAmount": "4540000"
+    },
+    {
+        "organization": "City Council",
+        "id": "130",
+        "displayAmount": "$52.10M",
+        "rawAmount": "52100000"
+    },
+    {
+        "organization": "City University of New York",
+        "id": "40",
+        "displayAmount": "$869.54M",
+        "rawAmount": "869540000"
+    },
+    {
+        "organization": "Civil Service Commission",
+        "id": "26",
+        "displayAmount": "$772.90K",
+        "rawAmount": "772900"
+    },
+    {
+        "organization": "Civilian Complaint Review Board",
+        "id": "14",
+        "displayAmount": "$11.60M",
+        "rawAmount": "11600000"
+    },
+    {
+        "organization": "Commission On Human Rights",
+        "id": "143",
+        "displayAmount": "$6.56M",
+        "rawAmount": "6560000"
+    },
+    {
+        "organization": "Conflicts of Interest Board",
+        "id": "95",
+        "displayAmount": "$2.06M",
+        "rawAmount": "2060000"
+    },
+    {
+        "organization": "Debt Service",
+        "id": "142",
+        "displayAmount": "$4.73B",
+        "rawAmount": "4730000000"
+    },
+    {
+        "organization": "Department For The Aging",
+        "id": "128",
+        "displayAmount": "$269.76M",
+        "rawAmount": "269760000"
+    },
+    {
+        "organization": "Department of Buildings",
+        "id": "43",
+        "displayAmount": "$106.10M",
+        "rawAmount": "106100000"
+    },
+    {
+        "organization": "Department of City Planning",
+        "id": "132",
+        "displayAmount": "$25.09M",
+        "rawAmount": "25090000"
+    },
+    {
+        "organization": "Department of Citywide Administrative Services",
+        "id": "29",
+        "displayAmount": "$1.29B",
+        "rawAmount": "1290000000"
+    },
+    {
+        "organization": "Department of Consumer Affairs",
+        "id": "12",
+        "displayAmount": "$29.16M",
+        "rawAmount": "29160000"
+    },
+    {
+        "organization": "Department of Correction",
+        "id": "92",
+        "displayAmount": "$1.07B",
+        "rawAmount": "1070000000"
+    },
+    {
+        "organization": "Department of Cultural Affairs",
+        "id": "42",
+        "displayAmount": "$156.14M",
+        "rawAmount": "156140000"
+    },
+    {
+        "organization": "Department of Design And Construction",
+        "id": "20",
+        "displayAmount": "$131.46M",
+        "rawAmount": "131460000"
+    },
+    {
+        "organization": "Department of Education",
+        "id": "96",
+        "displayAmount": "$19.23B",
+        "rawAmount": "19230000000"
+    },
+    {
+        "organization": "Department of Emergency Management",
+        "id": "3",
+        "displayAmount": "$76.41M",
+        "rawAmount": "76410000"
+    },
+    {
+        "organization": "Department of Employment",
+        "id": "119",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Department of Environmental Protection",
+        "id": "4",
+        "displayAmount": "$1.77B",
+        "rawAmount": "1770000000"
+    },
+    {
+        "organization": "Department of Finance",
+        "id": "67",
+        "displayAmount": "$231.98M",
+        "rawAmount": "231980000"
+    },
+    {
+        "organization": "Department of Health And Mental Hygiene",
+        "id": "99",
+        "displayAmount": "$1.68B",
+        "rawAmount": "1680000000"
+    },
+    {
+        "organization": "Department of Homeless Services",
+        "id": "139",
+        "displayAmount": "$957.85M",
+        "rawAmount": "957850000"
+    },
+    {
+        "organization": "Department of Information Technology And Telecommunications",
+        "id": "22",
+        "displayAmount": "$475.50M",
+        "rawAmount": "475500000"
+    },
+    {
+        "organization": "Department of Investigation",
+        "id": "5",
+        "displayAmount": "$38.59M",
+        "rawAmount": "38590000"
+    },
+    {
+        "organization": "Department of Juvenile Justice",
+        "id": "150",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Department of Mental Health",
+        "id": "118",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Department of Parks And Recreation",
+        "id": "19",
+        "displayAmount": "$455.85M",
+        "rawAmount": "455850000"
+    },
+    {
+        "organization": "Department of Probation",
+        "id": "136",
+        "displayAmount": "$83.56M",
+        "rawAmount": "83560000"
+    },
+    {
+        "organization": "Department of Records And Information Services",
+        "id": "108",
+        "displayAmount": "$5.78M",
+        "rawAmount": "5780000"
+    },
+    {
+        "organization": "Department of Sanitation",
+        "id": "54",
+        "displayAmount": "$1.48B",
+        "rawAmount": "1480000000"
+    },
+    {
+        "organization": "Department of Small Business Services",
+        "id": "2",
+        "displayAmount": "$455.11M",
+        "rawAmount": "455110000"
+    },
+    {
+        "organization": "Department of Social Services",
+        "id": "15",
+        "displayAmount": "$9.47B",
+        "rawAmount": "9470000000"
+    },
+    {
+        "organization": "Department of Transportation",
+        "id": "106",
+        "displayAmount": "$923.52M",
+        "rawAmount": "923520000"
+    },
+    {
+        "organization": "Department of Youth And Community Development",
+        "id": "129",
+        "displayAmount": "$354.99M",
+        "rawAmount": "354990000"
+    },
+    {
+        "organization": "District Attorney - Bronx County",
+        "id": "66",
+        "displayAmount": "$53.12M",
+        "rawAmount": "53120000"
+    },
+    {
+        "organization": "District Attorney - New York County",
+        "id": "133",
+        "displayAmount": "$102.63M",
+        "rawAmount": "102630000"
+    },
+    {
+        "organization": "District Attorney - Queens County",
+        "id": "50",
+        "displayAmount": "$51.99M",
+        "rawAmount": "51990000"
+    },
+    {
+        "organization": "District Attorney -Kings County",
+        "id": "87",
+        "displayAmount": "$85.92M",
+        "rawAmount": "85920000"
+    },
+    {
+        "organization": "District Attorney -Richmond County",
+        "id": "98",
+        "displayAmount": "$8.81M",
+        "rawAmount": "8810000"
+    },
+    {
+        "organization": "Districting Commission",
+        "id": "116",
+        "displayAmount": "$1.66M",
+        "rawAmount": "1660000"
+    },
+    {
+        "organization": "Energy Adjustment",
+        "id": "110",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Equal Employment Practices Commission",
+        "id": "45",
+        "displayAmount": "$789.54K",
+        "rawAmount": "789540"
+    },
+    {
+        "organization": "Federal / State Actions",
+        "id": "114",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Federal Actions",
+        "id": "112",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Financial Information Services Agency",
+        "id": "11",
+        "displayAmount": "$90.93M",
+        "rawAmount": "90930000"
+    },
+    {
+        "organization": "Fire Department",
+        "id": "31",
+        "displayAmount": "$1.90B",
+        "rawAmount": "1900000000"
+    },
+    {
+        "organization": "Fringe Benefits Cost Containment",
+        "id": "111",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "General Reserve",
+        "id": "113",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Health And Hospitals Corporation",
+        "id": "6",
+        "displayAmount": "$308.22M",
+        "rawAmount": "308220000"
+    },
+    {
+        "organization": "Housing Preservation And Development",
+        "id": "82",
+        "displayAmount": "$794.09M",
+        "rawAmount": "794090000"
+    },
+    {
+        "organization": "Independent Budget office",
+        "id": "34",
+        "displayAmount": "$4.29M",
+        "rawAmount": "4290000"
+    },
+    {
+        "organization": "It Efficiency Savings",
+        "id": "122",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Landmarks Preservation Commission",
+        "id": "137",
+        "displayAmount": "$4.96M",
+        "rawAmount": "4960000"
+    },
+    {
+        "organization": "Law Department",
+        "id": "32",
+        "displayAmount": "$149.25M",
+        "rawAmount": "149250000"
+    },
+    {
+        "organization": "Lease Adjustment",
+        "id": "120",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Mac Debt Service Funding",
+        "id": "115",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Manhattan Community Board #1",
+        "id": "93",
+        "displayAmount": "$461.50K",
+        "rawAmount": "461500"
+    },
+    {
+        "organization": "Manhattan Community Board #10",
+        "id": "39",
+        "displayAmount": "$298.47K",
+        "rawAmount": "298470"
+    },
+    {
+        "organization": "Manhattan Community Board #11",
+        "id": "41",
+        "displayAmount": "$292.97K",
+        "rawAmount": "292970"
+    },
+    {
+        "organization": "Manhattan Community Board #12",
+        "id": "8",
+        "displayAmount": "$290.95K",
+        "rawAmount": "290950"
+    },
+    {
+        "organization": "Manhattan Community Board #2",
+        "id": "140",
+        "displayAmount": "$317.63K",
+        "rawAmount": "317630"
+    },
+    {
+        "organization": "Manhattan Community Board #3",
+        "id": "124",
+        "displayAmount": "$343.34K",
+        "rawAmount": "343340"
+    },
+    {
+        "organization": "Manhattan Community Board #4",
+        "id": "49",
+        "displayAmount": "$291.20K",
+        "rawAmount": "291200"
+    },
+    {
+        "organization": "Manhattan Community Board #5",
+        "id": "76",
+        "displayAmount": "$254.90K",
+        "rawAmount": "254900"
+    },
+    {
+        "organization": "Manhattan Community Board #6",
+        "id": "13",
+        "displayAmount": "$407.90K",
+        "rawAmount": "407900"
+    },
+    {
+        "organization": "Manhattan Community Board #7",
+        "id": "7",
+        "displayAmount": "$316.26K",
+        "rawAmount": "316260"
+    },
+    {
+        "organization": "Manhattan Community Board #8",
+        "id": "86",
+        "displayAmount": "$360.35K",
+        "rawAmount": "360350"
+    },
+    {
+        "organization": "Manhattan Community Board #9",
+        "id": "59",
+        "displayAmount": "$253.96K",
+        "rawAmount": "253960"
+    },
+    {
+        "organization": "Mayoralty",
+        "id": "127",
+        "displayAmount": "$99.47M",
+        "rawAmount": "99470000"
+    },
+    {
+        "organization": "Miscellaneous",
+        "id": "28",
+        "displayAmount": "$6.80B",
+        "rawAmount": "6800000000"
+    },
+    {
+        "organization": "New York Public Library",
+        "id": "148",
+        "displayAmount": "$88.05M",
+        "rawAmount": "88050000"
+    },
+    {
+        "organization": "New York Research Libraries",
+        "id": "146",
+        "displayAmount": "$17.87M",
+        "rawAmount": "17870000"
+    },
+    {
+        "organization": "Nyc Taxi And Limousine Commission",
+        "id": "9",
+        "displayAmount": "$43.79M",
+        "rawAmount": "43790000"
+    },
+    {
+        "organization": "office of Administrative Tax Appeals",
+        "id": "16",
+        "displayAmount": "$4.35M",
+        "rawAmount": "4350000"
+    },
+    {
+        "organization": "office of Administrative Trials & Hearings",
+        "id": "10",
+        "displayAmount": "$34.55M",
+        "rawAmount": "34550000"
+    },
+    {
+        "organization": "office of Collective Bargaining",
+        "id": "37",
+        "displayAmount": "$2.26M",
+        "rawAmount": "2260000"
+    },
+    {
+        "organization": "office of Payroll Administration",
+        "id": "149",
+        "displayAmount": "$21.51M",
+        "rawAmount": "21510000"
+    },
+    {
+        "organization": "office of Prosecution - Special Narcotics",
+        "id": "104",
+        "displayAmount": "$17.93M",
+        "rawAmount": "17930000"
+    },
+    {
+        "organization": "office of The Actuary",
+        "id": "23",
+        "displayAmount": "$6.02M",
+        "rawAmount": "6020000"
+    },
+    {
+        "organization": "office of The Comptroller",
+        "id": "47",
+        "displayAmount": "$75.55M",
+        "rawAmount": "75550000"
+    },
+    {
+        "organization": "Pension Contributions",
+        "id": "18",
+        "displayAmount": "$8.06B",
+        "rawAmount": "8060000000"
+    },
+    {
+        "organization": "Police Department",
+        "id": "71",
+        "displayAmount": "$4.99B",
+        "rawAmount": "4990000000"
+    },
+    {
+        "organization": "Prior Year Payables",
+        "id": "121",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Procurement Peg",
+        "id": "117",
+        "displayAmount": "$0.00",
+        "rawAmount": "1"
+    },
+    {
+        "organization": "Public Administrator-Bronx County",
+        "id": "25",
+        "displayAmount": "$564.16K",
+        "rawAmount": "564160"
+    },
+    {
+        "organization": "Public Administrator-Kings County",
+        "id": "33",
+        "displayAmount": "$655.76K",
+        "rawAmount": "655760"
+    },
+    {
+        "organization": "Public Administrator-New York County",
+        "id": "21",
+        "displayAmount": "$1.45M",
+        "rawAmount": "1450000"
+    },
+    {
+        "organization": "Public Administrator-Queens County",
+        "id": "35",
+        "displayAmount": "$510.37K",
+        "rawAmount": "510370"
+    },
+    {
+        "organization": "Public Administrator-Richmond County",
+        "id": "27",
+        "displayAmount": "$428.46K",
+        "rawAmount": "428460"
+    },
+    {
+        "organization": "Public Advocate",
+        "id": "105",
+        "displayAmount": "$2.26M",
+        "rawAmount": "2260000"
+    },
+    {
+        "organization": "Queens Borough Public Library",
+        "id": "145",
+        "displayAmount": "$65.90M",
+        "rawAmount": "65900000"
+    },
+    {
+        "organization": "Queens Community Board #1",
+        "id": "135",
+        "displayAmount": "$263.36K",
+        "rawAmount": "263360"
+    },
+    {
+        "organization": "Queens Community Board #10",
+        "id": "81",
+        "displayAmount": "$249.83K",
+        "rawAmount": "249830"
+    },
+    {
+        "organization": "Queens Community Board #11",
+        "id": "53",
+        "displayAmount": "$264.76K",
+        "rawAmount": "264760"
+    },
+    {
+        "organization": "Queens Community Board #12",
+        "id": "30",
+        "displayAmount": "$249.21K",
+        "rawAmount": "249210"
+    },
+    {
+        "organization": "Queens Community Board #13",
+        "id": "97",
+        "displayAmount": "$255.01K",
+        "rawAmount": "255010"
+    },
+    {
+        "organization": "Queens Community Board #14",
+        "id": "75",
+        "displayAmount": "$230.01K",
+        "rawAmount": "230010"
+    },
+    {
+        "organization": "Queens Community Board #2",
+        "id": "73",
+        "displayAmount": "$284.38K",
+        "rawAmount": "284380"
+    },
+    {
+        "organization": "Queens Community Board #3",
+        "id": "125",
+        "displayAmount": "$286.90K",
+        "rawAmount": "286900"
+    },
+    {
+        "organization": "Queens Community Board #4",
+        "id": "100",
+        "displayAmount": "$253.17K",
+        "rawAmount": "253170"
+    },
+    {
+        "organization": "Queens Community Board #5",
+        "id": "74",
+        "displayAmount": "$245.83K",
+        "rawAmount": "245830"
+    },
+    {
+        "organization": "Queens Community Board #6",
+        "id": "90",
+        "displayAmount": "$268.20K",
+        "rawAmount": "268200"
+    },
+    {
+        "organization": "Queens Community Board #7",
+        "id": "88",
+        "displayAmount": "$285.50K",
+        "rawAmount": "285500"
+    },
+    {
+        "organization": "Queens Community Board #8",
+        "id": "80",
+        "displayAmount": "$277.85K",
+        "rawAmount": "277850"
+    },
+    {
+        "organization": "Queens Community Board #9",
+        "id": "63",
+        "displayAmount": "$206.90K",
+        "rawAmount": "206900"
+    },
+    {
+        "organization": "Staten Island Community Board #1",
+        "id": "91",
+        "displayAmount": "$264.96K",
+        "rawAmount": "264960"
+    },
+    {
+        "organization": "Staten Island Community Board #2",
+        "id": "77",
+        "displayAmount": "$251.90K",
+        "rawAmount": "251900"
+    },
+    {
+        "organization": "Staten Island Community Board #3",
+        "id": "85",
+        "displayAmount": "$286.65K",
+        "rawAmount": "286650"
+    }
+]
